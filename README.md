@@ -6,6 +6,13 @@
 
 ---
 
+### 🏆 Achievements
+- 🥈 **2nd Place - LKS IT Network System Administration, Nganjuk Regency**
+- 🎯 **Top 18 Finalist - LKS ITNSA, East Java Provincial Level**
+- 💪 Gained real-world competition experience, sharpening both technical and mental skills.
+
+---
+
 ### 🛠️ My Focus Areas:
 - 🖥️ **Linux & Windows Server Management**
 - 🌐 **Networking (Subnetting, VLAN, Routing, NAT)**
